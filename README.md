@@ -46,6 +46,34 @@ Well. You'll find a whole lot of stuff. But most of it can be classified into th
 
 ___
 
+## What Stack Do I Use?
+
+These are the main tools, frameworks, and languages I work with.  
+(Might be forgetting a few, but this covers most of them.)
+
+**Languages**  
+C/C++, C#, Java, Python, JavaScript, TypeScript, SQL  
+
+**Web Development**  
+React, Next.js, Vite, Tailwind CSS, Express.js, Node.js, D3.js, PostgreSQL, MongoDB, Flask, Fly.io, Netlify, Vercel  
+
+**Game Development**  
+Unity (2D/3D, URP, custom renderers), custom shaders  
+
+**3D & Design**  
+Blender, Three.js, React-Three-Fiber, OGL, GSAP, Figma, Canva  
+
+**Machine Learning / AI**  
+CUDA (cuBLAS/cuDNN), PyTorch, TensorFlow, NLTK, Deep Learning 
+
+**Experimentation / Tools**  
+Git, Docker, Firebase, Flutter, Fly.io, VS Code  
+
+**Creativity & Media**  
+Adobe Photoshop, Illustrator, Premiere Pro, After Effects, Lightroom, FL Studio
+
+___
+
 ## GitHub Stats
 
 <div align="center">
@@ -57,4 +85,4 @@ ___
 
 ---
 
-_"Don't go gentle into that good night, rage against the dying of the light."_
+> _"Don't go gentle into that good night, rage against the dying of the light."_
