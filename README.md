@@ -30,7 +30,7 @@ This is my GitHub profile. T'is a place where I share the kinds of things I tink
 web apps, games, 3D experiments, and sometimes ML/AI projects.  
 
 For a more curated version of my work, check out my portfolio site here:  
-👉 [bonevane.vercel.app](https://bonevane.vercel.app)
+👉 [bonevane.dev](https://bonevane.dev)
 
 ---
 
