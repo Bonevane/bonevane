@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rafay_ahmad44)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@bonevane)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/Bonevane_YT)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://bonevane.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://bonevane.dev)
 
 </div>
 
