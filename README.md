@@ -1,88 +1,93 @@
-# ✨ Rafay Ahmad | Bonevane
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" alt="Rafay Ahmad, a.k.a. Bonevane. Software engineer, ML researcher, creative developer." width="100%"></picture>
+</p>
 
-<div align="center">
+<p align="center">
+<a href="mailto:rahmad.atomic44@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img height="34" src="assets/link-email-light.svg" alt="Email"></picture></a>
+<a href="https://bonevane.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg"><img height="34" src="assets/link-portfolio-light.svg" alt="Portfolio"></picture></a>
+<a href="https://linkedin.com/in/rafay-ahmad"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img height="34" src="assets/link-linkedin-light.svg" alt="LinkedIn"></picture></a>
+<a href="https://youtube.com/@bonevane"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-youtube-dark.svg"><img height="34" src="assets/link-youtube-light.svg" alt="YouTube"></picture></a>
+<a href="https://bonevane.itch.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-itchio-dark.svg"><img height="34" src="assets/link-itchio-light.svg" alt="Itch.io"></picture></a>
+<a href="https://instagram.com/rafay_ahmad44"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-instagram-dark.svg"><img height="34" src="assets/link-instagram-light.svg" alt="Instagram"></picture></a>
+<a href="https://x.com/Bonevane_YT"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-x-dark.svg"><img height="34" src="assets/link-x-light.svg" alt="X"></picture></a>
+<a href="https://discord.com/users/bonevane"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-discord-dark.svg"><img height="34" src="assets/link-discord-light.svg" alt="Discord"></picture></a>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-34A853?style=flat&logo=gmail&logoColor=white)](mailto:rahmad.atomic44@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bonevane)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafay-ahmad)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/bonevane)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://bonevane.itch.io)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rafay_ahmad44)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@bonevane)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/Bonevane_YT)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://bonevane.dev)
-
-</div>
-
----
+<br>
 
 **Welcome to my space.**
 
 I'm a software engineer from Pakistan that loves to build experimental stuff. Sometimes, I share what I do.
 
-That's just how it goes. Enjoy your stay!
+These days that mostly means teaching vision-language models to read Urdu, cramming AI onto cheap phones, and building whatever else catches my eye.
 
----
+<br>
 
-## What!? What is this!?
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-what-dark.svg"><img src="assets/section-what-light.svg" alt="What!? What is this!?" width="100%"></picture>
 
-This is my GitHub profile. T'is a place where I share the kinds of things I tinker with:  
-web apps, games, 3D experiments, and sometimes ML/AI projects.  
+This is my GitHub profile. T'is a place where I share the kinds of things I tinker with: research code, web apps, games, 3D experiments, and the occasional thing that probably shouldn't work but does.
 
-For a more curated version of my work, check out my portfolio site here:  
-👉 [bonevane.dev](https://bonevane.dev)
+For a more curated version of my work, check out my portfolio site here:
+👉 **[bonevane.dev](https://bonevane.dev)**
 
----
+<br>
 
-## What Can I Find Here?  
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-now-dark.svg"><img src="assets/section-now-light.svg" alt="What am I up to right now?" width="100%"></picture>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg"><img src="assets/now-light.svg" alt="Researching VLMs for Urdu OCR at TUKL, NUST. Published at ICDAR 2026. Just got back from RPTU, Germany, running a wheat rust agent fully offline on a budget phone. Freelancing frontend design on the side." width="100%"></picture>
+</p>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-proud-dark.svg"><img src="assets/section-proud-light.svg" alt="Stuff I'm proud of" width="100%"></picture>
+
+<p align="center">
+  <a href="https://github.com/Bonevane/Bridge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-bridge-dark.svg"><img src="assets/card-bridge-light.svg" alt="Bridge: Your Android phone on your Mac or PC, from anywhere, even when it's locked. Hand-rolled ADB, scrcpy and H.264 over iroh." width="49%"></picture></a>
+  <a href="https://github.com/dmunish/reach"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-reach-dark.svg"><img src="assets/card-reach-light.svg" alt="REACH: Turns Pakistan's official disaster bulletins (PDFs, maps, scans) into clear, location-specific alerts on a live map." width="49%"></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Bonevane/Spillage-Search"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-spillage-dark.svg"><img src="assets/card-spillage-light.svg" alt="Spillage: A search engine for 190k+ Medium articles, built on Google's original search paper. BM25 ranking with RAG summaries." width="49%"></picture></a>
+  <a href="https://github.com/Bonevane/F1-Reinforcement"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-f1-dark.svg"><img src="assets/card-f1-light.svg" alt="F1 RL Driver: A Soft Actor-Critic agent that teaches itself the Red Bull Ring in F1 2020, bootstrapped from laps on a racing wheel." width="49%"></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Bonevane/ScalAR-Measurement"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-scalar-dark.svg"><img src="assets/card-scalar-light.svg" alt="ScalAR: Apple's Measure app, for Android. Distance, area, volume and height in AR, anchored with ARCore's Depth API." width="49%"></picture></a>
+  <a href="https://github.com/Bonevane/Path-Tracer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-pathtracer-dark.svg"><img src="assets/card-pathtracer-light.svg" alt="Path Tracer: A path tracing shader in Unity, written in HLSL. Light bouncing around a scene the physically honest way." width="49%"></picture></a>
+</p>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-find-dark.svg"><img src="assets/section-find-light.svg" alt="What Can I Find Here?" width="100%"></picture>
 
 Well. You'll find a whole lot of stuff. But most of it can be classified into these categories:
 
-- **Web Dev** — Interactive apps using modern frameworks  
-- **3D & Design** — Blender scenes and graphics  
-- **Game Dev** — Games & interactive stories (Unity 2D/3D)  
-- **Experiments** — Small projects, prototypes, and ML/AI tinkering  
-- **Simulations** — From orbital mechanics to infection spread
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/find-dark.svg"><img src="assets/find-light.svg" alt="Research and ML, Web Dev, Systems, Game Dev, 3D and Design, Simulations" width="100%"></picture>
+</p>
 
-___
+<br>
 
-## What Stack Do I Use?
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-stack-dark.svg"><img src="assets/section-stack-light.svg" alt="What Stack Do I Use?" width="100%"></picture>
 
-These are the main tools, frameworks, and languages I work with.  
+These are the main tools, frameworks, and languages I work with.
 (Might be forgetting a few, but this covers most of them.)
 
-**Languages**  
-C/C++, C#, Java, Python, JavaScript, TypeScript, SQL  
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" alt="Languages, ML and AI, web, game dev, 3D and design, tools, and media software I use" width="100%"></picture>
+</p>
 
-**Web Development**  
-React, Next.js, Vite, Tailwind CSS, Express.js, Node.js, D3.js, PostgreSQL, MongoDB, Flask, Fly.io, Netlify, Vercel  
+<br>
 
-**Game Development**  
-Unity (2D/3D, URP, custom renderers), custom shaders  
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-stats-dark.svg"><img src="assets/section-stats-light.svg" alt="GitHub Stats" width="100%"></picture>
 
-**3D & Design**  
-Blender, Three.js, React-Three-Fiber, OGL, GSAP, Figma, Canva  
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" alt="GitHub stats: contributions, streaks and top languages, refreshed daily" width="100%"></picture>
+</p>
 
-**Machine Learning / AI**  
-CUDA (cuBLAS/cuDNN), PyTorch, TensorFlow, NLTK, Deep Learning 
+<br>
 
-**Experimentation / Tools**  
-Git, Docker, Firebase, Flutter, Fly.io, VS Code  
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><img src="assets/footer-light.svg" alt="That's just how it goes. Enjoy your stay!" width="100%"></picture>
+</p>
 
-**Creativity & Media**  
-Adobe Photoshop, Illustrator, Premiere Pro, After Effects, Lightroom, FL Studio
-
-___
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bonevane&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonevane&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-> _"Don't go gentle into that good night, rage against the dying of the light."_
+<!-- Paste your closing quote back in here -->
